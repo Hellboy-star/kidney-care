@@ -20,13 +20,13 @@ Plateforme web pour la gestion de patients atteints de MRC, avec :
 ## Lancement
 
 '''bash
-laravel new ai4ck-prototyp
-composer require laravel/breeze --dev
-php artisan breeze:install livewire
-composer require barryvdh/laravel-dompdf
-npm install
-npm run dev
-composer require
-php artisan migrate
-php artisan serve
+-laravel new ai4ck-prototyp
+-composer require laravel/breeze --dev
+-php artisan breeze:install livewire
+-composer require barryvdh/laravel-dompdf
+-npm install
+-npm run dev
+-composer require
+-php artisan migrate
+-php artisan serve
 
